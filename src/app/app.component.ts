@@ -45,11 +45,6 @@ export class AppComponent {
       title: 'Tareas Firebase',
       url: '/todos-firebase',
       icon: 'list'
-    },
-    {
-      title: 'Camara',
-      url: '/camera',
-      icon: 'camera'
     }
   ];
 
